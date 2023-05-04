@@ -1,0 +1,31 @@
+.header{
+	width: 100%;
+	background-color: #f7f3f2;
+}
+.logo{
+	width: 145px;
+	height: auto;
+	padding: 20px 100px;
+}
+ul{
+	float: right;
+	margin-right: 20px;
+}
+ul li{
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+}
+ul li a{
+	text-decoration: none;
+}
+.banner-area{
+	width: 50%;
+	height: 100px;
+	position: fixed;
+	top: 100px;
+	background-image: url(images/Anew background.png);
+	background-size: cover;
+	background-position: center center;
+}
